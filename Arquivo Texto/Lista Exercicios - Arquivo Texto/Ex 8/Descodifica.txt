@@ -1,0 +1,1 @@
+Gere uma espécie de criptegrafica, que ae receber um arquive texte, reterne em eutre arquive e tex

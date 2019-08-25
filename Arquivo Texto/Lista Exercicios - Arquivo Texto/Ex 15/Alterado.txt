@@ -1,0 +1,3 @@
+Ao r&c&b&r um arquivo t&xto, uma 'l&tra' & um 'caract&r& &sp&cial', todos via
+parâm&tro, r&torn& um novo arquivo com as d&vidas substituico&s dos 
+caract&r&s iguais a 'l&tra' p&lo 'caract&r& &sp&cial' &scolhido.

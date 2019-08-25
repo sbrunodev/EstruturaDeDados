@@ -1,0 +1,3 @@
+Faca uma funcao em C que receba um Arquivo Texto (via parâmetro) 
+e retorne um novo com as vogais substituídas por "@".
+

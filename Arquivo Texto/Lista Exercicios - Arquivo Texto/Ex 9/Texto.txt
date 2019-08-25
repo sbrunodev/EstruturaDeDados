@@ -1,0 +1,2 @@
+Ao receber um arquivo texto, retorne a quantidade de palavras que são iniciadas por uma vogal.
+

@@ -1,0 +1,3 @@
+Ao receber um arquivo texto, uma 'letra' e um 'caractere especial', todos via
+parâmetro, retorne um novo arquivo com as devidas substituicoes dos 
+caracteres iguais a 'letra' pelo 'caractere especial' escolhido.

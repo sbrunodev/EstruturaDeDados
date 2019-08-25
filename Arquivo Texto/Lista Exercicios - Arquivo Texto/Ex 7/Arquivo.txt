@@ -1,0 +1,1 @@
+Gere uma espécie de criptografica, que ao receber um arquivo texto, retorne em outro arquivo o texto codificado.  
