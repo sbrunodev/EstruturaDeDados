@@ -1,9 +1,13 @@
-# EstruturaDeDados
+# Estrutura De Dados
 Estrutura de Dados em C++. 
 
-Fila
+Fila, Fila Circular
 
-Pilha
+Pilha, Pilhas Multiplas
+
+Ponteiro
+
+Recursividade
 
 Leitura e gravação de Arquivo
 
